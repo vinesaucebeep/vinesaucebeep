@@ -15,6 +15,10 @@
 |❗Not Released!|[⬇️Download from Gamejolt](https://gamejolt.com/games/noahclicker/686442)|
 |[✅ View Source Code](https://github.com/vinesaucebeep/Simplicity-for-1.18.x)|❗Closed Source |
 
+Follow me on twitter [@beep67Dev](https://twitter.com/beep67Dev)
+
+
+
 
 
 
