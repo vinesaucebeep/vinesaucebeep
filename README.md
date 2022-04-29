@@ -4,7 +4,7 @@
 
 | Simplicity | Berry Expansion |
 |------------|-----------------|
-|![S](https://user-images.githubusercontent.com/88556555/165871937-9dc5b1b2-d7f3-4a41-a760-3a88c06e16fd.png)|![BE](https://user-images.githubusercontent.com/88556555/165872041-df00022b-81d4-4327-909e-6c6e4ada2e22.png)|
+|![S]((https://user-images.githubusercontent.com/88556555/165872225-e3f52911-d04f-4d7b-9aaf-69b4ef780519.png)|![BE]((https://user-images.githubusercontent.com/88556555/165872155-4364a80d-9cad-4494-9e01-5efeea509479.png)|
 |❗In early alpha!|❗Not Released!|
 |[✅ View Source Code](https://github.com/vinesaucebeep/Simplicity-for-1.18.x)|[✅ View Source Code](https://github.com/vinesaucebeep/Berry-Expansion-for-1.18.x)|
 |[🚫Report Bugs](https://github.com/vinesaucebeep/Simplicity-for-1.18.x/issues/new)|
