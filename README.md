@@ -4,7 +4,8 @@
 
 | Simplicity | Berry Expansion |
 |------------|-----------------|
-|![S](https://user-images.githubusercontent.com/88556555/165871120-fb09568a-3b66-4d60-929c-e5e534b5d8c5.png)
+|![S](https://user-images.githubusercontent.com/88556555/165871120-fb09568a-3b66-4d60-929c-e5e534b5d8c5.png)|![BE](https://user-images.githubusercontent.com/88556555/165871175-ff87f757-553f-432d-a61e-4ad96337d4df.png)
+
 
 
 
