@@ -4,7 +4,7 @@
 
 | Simplicity | Berry Expansion |
 |------------|-----------------|
-|![S](https://user-images.githubusercontent.com/88556555/167042150-56173379-fe2a-4813-bc4b-2836277e1ee1.png)|![BE](https://user-images.githubusercontent.com/88556555/165872155-4364a80d-9cad-4494-9e01-5efeea509479.png)|
+|![S](https://user-images.githubusercontent.com/88556555/167042217-8e56b37c-2f7a-46d7-abfe-a7d5ca431e4e.png)|![BE](https://user-images.githubusercontent.com/88556555/165872155-4364a80d-9cad-4494-9e01-5efeea509479.png)|
 |[❗In early alpha!](https://www.curseforge.com/minecraft/mc-mods/simplicity)|❗Not Released!|
 |[✅ View Source Code](https://github.com/vinesaucebeep/Simplicity-for-1.18.x)|[✅ View Source Code](https://github.com/vinesaucebeep/Berry-Expansion-for-1.18.x)|
 |[🚫Report Bugs](https://github.com/vinesaucebeep/Simplicity-for-1.18.x/issues/new)|
