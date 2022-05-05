@@ -11,7 +11,7 @@
 
 | Over The Void | Noah Clicker |
 |---------------|--------------|
-|![OTV](https://user-images.githubusercontent.com/88556555/165872304-f1846b83-2d97-41b5-94d4-fca4390a1dab.png)|![NC](https://user-images.githubusercontent.com/88556555/165872467-b264ae8f-07ea-4177-8aaa-39b5bf30da03.png)|
+|![OTV](https://user-images.githubusercontent.com/88556555/167041022-95288d57-89dc-4c4e-b080-0c73b5bfd174.png)|![NC](https://user-images.githubusercontent.com/88556555/165872467-b264ae8f-07ea-4177-8aaa-39b5bf30da03.png)|
 |❗Not Released!|[⬇️Download from Gamejolt](https://gamejolt.com/games/noahclicker/686442)|
 |[✅ View Source Code](https://github.com/vinesaucebeep/Over-The-Void-for-1.18.x)|❗Closed Source |
 
