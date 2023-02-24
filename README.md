@@ -2,9 +2,9 @@
 
 #### Here are my mods and progams
 
-| Simplicity | Berry Expansion (CANCELLED) |
-|------------|-----------------|
-|![S](https://user-images.githubusercontent.com/88556555/167042217-8e56b37c-2f7a-46d7-abfe-a7d5ca431e4e.png)|![BE](https://user-images.githubusercontent.com/88556555/167042713-a2032128-0edc-42a6-9a8f-d2b82c27215c.png)|
+| Simplicity |
+|------------|
+|![S](https://user-images.githubusercontent.com/88556555/167042217-8e56b37c-2f7a-46d7-abfe-a7d5ca431e4e.png)|
 |❗Not Released |❗Not Released!|
 |[✅ View Source Code](https://github.com/vinesaucebeep/simplicity_rw)|[✅ View Source Code](https://github.com/vinesaucebeep/Berry-Expansion-for-1.18.x)|
 
