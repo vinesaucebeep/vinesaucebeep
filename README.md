@@ -6,7 +6,7 @@
 |------------|
 |![S](https://user-images.githubusercontent.com/88556555/167042217-8e56b37c-2f7a-46d7-abfe-a7d5ca431e4e.png)|
 |❗Not Released |❗Not Released!|
-|[✅ View Source Code](https://github.com/vinesaucebeep/Simplicity-For-1.19.x)|[✅ View Source Code](https://github.com/vinesaucebeep/Berry-Expansion-for-1.18.x)|
+|[✅ View Source Code](https://github.com/vinesaucebeep/Simplicity-Mod/tree/master?tab=readme-ov-file)|[✅ View Source Code](https://github.com/vinesaucebeep/Berry-Expansion-for-1.18.x)|
 
 
 | Over The Void | Burger Mod Fabricated |
